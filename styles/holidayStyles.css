@@ -10,7 +10,9 @@ p { color: cadetblue
 }
 body {
 background: #1C6DA7}
-h1 { color: white
+h1 {
+    color: #000000;
+    text-align: center;
 }
 #wrapper {
 	background-color: #FFFFFF;
